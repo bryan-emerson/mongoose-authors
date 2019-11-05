@@ -14,8 +14,7 @@ Follow along as I build out a very simple application to demonstrate:
 1.  Change into the new directory.
 1.  Install dependencies.
 
-Starter code is available in [`lib/`](lib/). Solution code is available on the
-`solution` branch.
+Solution code is available on the `solution` branch.
 
 ## Step 1: Connect to Mongoose
 

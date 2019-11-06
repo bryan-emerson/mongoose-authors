@@ -1,9 +1,8 @@
 [
   {
-    "name": {
-      "first": "Ernest",
-      "last": "Hemingway"
-    },
+    "firstName": "Ernest",
+    "lastName": "Hemingway",
+    "birthYear": 1899,
     "nationality": "United States",
     "books": [
       {
@@ -21,10 +20,9 @@
     ]
   },
   {
-    "name": {
-      "first": "J.K.",
-      "last": "Rowling"
-    },
+    "firstName": "J.K.",
+    "lastName": "Rowling",
+    "birthYear": 1965,
     "nationality": "United Kingdom",
     "url": "https://www.jkrowling.com/",
     "books": [
@@ -59,10 +57,9 @@
     ]
   },
   {
-    "name": {
-      "first": "Milan",
-      "last": "Kundera"
-    },
+    "firstName": "Milan",
+    "lastName": "Kundera",
+    "birthYear": 1929,
     "nationality": "France",
     "books": [
       {
@@ -92,10 +89,9 @@
     ]
   },
   {
-    "name": {
-      "first": "Toni",
-      "last": "Morrison"
-    },
+    "firstName": "Toni",
+    "lastName": "Morrison",
+    "birthYear": 1931,
     "nationality": "United States",
     "books": [
       {

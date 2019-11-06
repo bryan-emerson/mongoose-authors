@@ -11,7 +11,6 @@ const Author = require("./models/Author");
  */
 
 // Find one author with the first name 'Ernest' using Object syntax
-// Find one author with the first name 'Ernest' using Query Builder syntax
 // Find all authors with 'United States' as their nationality
 // Find all authors born after 1950
 // Find all authors born between 1900 and 1950

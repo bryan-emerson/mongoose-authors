@@ -13,16 +13,22 @@ const bookSchema = new Schema({
 });
 
 const authorSchema = new Schema({
-  firstName: {
-    type: String,
-    required: true
-  },
-  lastName: {
-    type: String,
-    required: true
+  name: {
+    first: {
+      type: String,
+      required: true
+    },
+    last: {
+      type: String,
+      required: true
+    }
   },
   url: {
     type: String
+  },
+  nationality: {
+    type: String,
+    enum: ["United States", "United Kingdom", "France"]
   },
   books: [bookSchema]
 });

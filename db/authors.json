@@ -1,0 +1,147 @@
+[
+  {
+    "name": {
+      "first": "Ernest",
+      "last": "Hemingway"
+    },
+    "nationality": "United States",
+    "books": [
+      {
+        "title": "The Sun Also Rises",
+        "type": "Fiction"
+      },
+      {
+        "title": "The Old Man and The Sea",
+        "type": "Fiction"
+      },
+      {
+        "title": "A Farewell to Arms",
+        "type": "Fiction"
+      }
+    ]
+  },
+  {
+    "name": {
+      "first": "J.K.",
+      "last": "Rowling"
+    },
+    "nationality": "United Kingdom",
+    "url": "https://www.jkrowling.com/",
+    "books": [
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Order of the Phoenix",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "type": "Non-fiction"
+      },
+      {
+        "title": "Harry Potter and the Deathly Hallows",
+        "type": "Non-fiction"
+      }
+    ]
+  },
+  {
+    "name": {
+      "first": "Milan",
+      "last": "Kundera"
+    },
+    "nationality": "France",
+    "books": [
+      {
+        "title": "The Joke",
+        "type": "Fiction"
+      },
+      {
+        "title": "Life is Elsewhere",
+        "type": "Fiction"
+      },
+      {
+        "title": "The Book of Laughter and Forgetting",
+        "type": "Fiction"
+      },
+      {
+        "title": "The Unbearable Lightness of Being",
+        "type": "Fiction"
+      },
+      {
+        "title": "Immortality",
+        "type": "Fiction"
+      },
+      {
+        "title": "The Festival of Insignificance",
+        "type": "Fiction"
+      }
+    ]
+  },
+  {
+    "name": {
+      "first": "Toni",
+      "last": "Morrison"
+    },
+    "nationality": "United States",
+    "books": [
+      {
+        "title": "The Bluest Eye",
+        "type": "Fiction"
+      },
+      {
+        "title": "Sula",
+        "type": "Fiction"
+      },
+      {
+        "title": "Song of Solomon",
+        "type": "Fiction"
+      },
+      {
+        "title": "Tar Baby",
+        "type": "Fiction"
+      },
+      {
+        "title": "Beloved",
+        "type": "Fiction"
+      },
+      {
+        "title": "Jazz",
+        "type": "Fiction"
+      },
+      {
+        "title": "Paradise",
+        "type": "Fiction"
+      },
+      {
+        "title": "Love",
+        "type": "Fiction"
+      },
+      {
+        "title": "A Mercy",
+        "type": "Fiction"
+      },
+      {
+        "title": "Home",
+        "type": "Fiction"
+      },
+      {
+        "title": "God Help the Childre",
+        "type": "Fiction"
+      }
+    ]
+  }
+]

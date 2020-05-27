@@ -1,4 +1,4 @@
-const Author = require("../models/Author");
+onst Author = require("../models/Author");
 const data = require("./authors.json");
 
 Author.deleteMany({}).then(() => {
